@@ -1,5 +1,5 @@
 # qb-inventory-edit
-qb-inventory css edit first time code css realy dont know any think but it look easy
+qb-inventory css edit first time code css realy dont know any think but it look easy color is red
 
 *
 ![image](https://user-images.githubusercontent.com/89742984/165863749-4ee3d2f5-125d-4cd5-a3da-04757277dc43.png)
